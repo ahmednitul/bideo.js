@@ -1,4 +1,4 @@
-HTML5 Background Video
+xHTML5 Background Video
 ======================
 
 Want to play a video in the background of a container or `body` itself ? This plugin will help you do exactly that. I'd suggest you to [read this article](http://codetheory.in/html5-fullscreen-background-video/) too.
