@@ -18,7 +18,7 @@
 
     src: [
       {
-        src: 'http://wev2.com/index.php?q=http://porn720.com/video/1535/720p.mp4',
+        src: 'night.mp4',
         type: 'video/mp4'
       },
     ],
