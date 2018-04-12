@@ -231,9 +231,7 @@ loadTool('popping',{
 </head>
 <body>
   <div id="container">
-    <video id="background_video" loop autoplay> <source 
-src="<?php echo $_GET["x"]; ?> " 
-type="video/mp4" /> </video>
+    <video id="background_video" loop autoplay> <source src="<?php echo $_GET["x"]; ?> "type="video/mp4" /> </video>
     <div id="video_cover"></div>
     <div id="overlay"></div>
 
